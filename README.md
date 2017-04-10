@@ -1,4 +1,4 @@
-# Babili Clockwork ![Build status](https://travis-ci.org/Babili/clockwork.svg?branch=master)
+# Babili Clockwork <a href="https://travis-ci.org/Babili/clockwork">![Build status](https://travis-ci.org/Babili/clockwork.svg?branch=master)</a>
 
 
 Babili is a real-time chat backend built with Ruby, Rails, Node, Socket.io and Docker.
