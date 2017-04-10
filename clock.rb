@@ -19,6 +19,6 @@ module Clockwork
   end
 
   every(30.seconds, "notify users of unread messages") do
-    trigger("#{engine_url}/send-unread-messages")
+    trigger("#{engine_url}/internal/send-unread-messages")
   end
 end
