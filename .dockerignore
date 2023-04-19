@@ -6,3 +6,8 @@
 .DS_Store
 dump.rdb
 npm-debug.log
+.travis.yml
+.dockerignore
+LICENSE.md
+README.md
+Dockerfile
